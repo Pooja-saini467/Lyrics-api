@@ -18,7 +18,7 @@
 - Fully responsive Page.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Lyrics-api/blob/main/images/Screenshot%20(25).png">
 
 ## Demo
 
